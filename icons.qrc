@@ -15,5 +15,6 @@
 <file>icons/zoom-out.png</file>
 <file>icons/show-grid.png</file>
 <file>icons/eyedropper.png</file>
+<file>icons/select.png</file>
 </qresource>
 </RCC>

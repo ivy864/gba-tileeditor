@@ -92,6 +92,7 @@
    <addaction name="actionShow_Grid"/>
    <addaction name="separator"/>
    <addaction name="actionEyedropper"/>
+   <addaction name="actionSelect"/>
    <addaction name="separator"/>
   </widget>
   <action name="actionNew">
@@ -212,6 +213,17 @@
    </property>
    <property name="text">
     <string>Eyedropper</string>
+   </property>
+  </action>
+  <action name="actionSelect">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Select</string>
+   </property>
+   <property name="shortcut">
+    <string>R</string>
    </property>
   </action>
  </widget>
